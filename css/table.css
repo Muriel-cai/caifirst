@@ -21,10 +21,13 @@ b{
 img{
 	border:0px;
 }
-
+.input{
+	outline:none;
+}
 .w1150{
-	width:1150px;height:2000px;
+	width:1150px;
 	margin: 0 auto ;
+	overflow: hidden;
 }
 h1{
 	margin-top:90px;
@@ -41,6 +44,71 @@ h3{
 	text-align: center;
 	color:#797979;                                                                                                                                                                                                                                                                                                                                                                                                         
 }
-.main .dpgs li{
-	height:;
+.main{
+	width:1200px;height:580px;
+	margin: 54px 0;
+}
+.main div{
+	float:left;
+	height:535px;width:262px;
+	background: #EEEEEE;
+	margin:20px 30px 20px 0px;
+	border-radius:5px;
+	text-align: center;
+	color:#797979;
+}
+.main .three{
+	height:574px;
+	background: #F77B6F;
+	margin:0px 30px 0 0;
+	color:white;
+}
+.main h2{
+	height:55px;
+	line-height: 55px;
+	font-size:18px;
+}
+.main div p{
+	height:115px;
+	background: #777;
+	line-height: 115px;
+	font-size:36px;
+	color:white;
+}
+.main div p span{
+	font-size:18px;
+	padding:5px;
+}
+.main div ul li{
+	height:59px;
+	margin:0px;
+	padding:0 26px;
+	border-bottom:1px dotted #CCC;
+	line-height: 59px;
+
+}
+.main div ul .last{
+	border-bottom: none;
+	height:80px;
+}
+.main div ul .last input{
+	width:96px;height:40px;
+	background:#ACACAC;
+	border-radius: 5px;
+}
+
+.main .three h2{
+	height:74px;
+	font-size:36px;
+	line-height: 74px;
+}
+.main .three p{
+	height:114px;
+	background: black;
+	line-height: 114px;
+	filter: alpha(opacity=20);
+	opacity:0.2;
+}
+.main .three ul .last{
+	height:100px;
 }
