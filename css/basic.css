@@ -1,0 +1,241 @@
+
+.main{
+	height:250px;width:1200px;
+	margin: 0 auto;
+}
+.main ul{
+	width:1200px;
+}
+.main ul .m1{
+	width:25%;height:250px;
+	font-size:20px;
+	
+}
+.main ul .m1 h1,h2,h3,h4,h5,h6{
+	font-weight: 400;
+	margin-bottom:8px;
+}
+.main ul .m2{
+	width:45%;height:200px;
+}
+.main ul .m2 h3{
+	font-size:22px;
+	font-weight: 500;
+	text-transform: capitalize;
+}
+.main ul .m2 p{
+	width:92%;
+
+}
+.main ul .m3{
+	width:30%;height:200px;
+}
+.main ul .m3 h3{
+	font-size:22px;
+	font-weight: 500;
+	text-transform: capitalize;
+}
+.main ul .m3 p{
+	height:28px;
+	width:100%;
+}
+.main ul li{
+	display: block;
+	float: left;
+	color:#797979;
+	font-size:16px;
+	
+}
+.hig{
+	height:130px;width:1200px;
+	margin:0 auto;
+	margin-bottom: 20px;
+}
+.hig h3{
+	font-size:22px;
+	font-weight: 500;
+	text-transform: capitalize;
+	color:#797979;
+}
+.hig p{
+	line-height: 25px;
+	color:#797979;
+}
+.hig p .s1{
+	background: #9CCE44;
+}
+.hig p .s2{
+	background: #242424;
+}
+.hig p .s3{
+	background: #F2C600;
+}
+.htm{
+	height:130px;width:1200px;
+	margin:0 auto;
+	margin-bottom: 20px;
+}
+.htm h3{
+	font-size:22px;
+	font-weight: 500;
+	color:#797979;
+}
+.htm p{
+		line-height: 25px;
+	color:#797979;
+}
+.htm p .h1{
+	text-decoration: underline;
+}
+.htm p b{
+	color:black;
+
+}
+.htm p i{
+	color:#9CCE44;
+}
+.drop{
+	height:150px;width:1200px;
+	margin:0 auto;
+	margin-bottom: 20px;
+}
+.drop span{
+	display: block;
+	float: left;
+	height:40px;width:36px;
+	color: white;
+	line-height: 40px;
+	font-size:30px;
+	text-align: center;
+	background: #666;
+	margin-right: 10px;
+
+}
+.drop .drop2 p .fdc1{
+	border-radius: 80%;
+}
+.drop .drop1{
+	width:50%;
+	float:left;
+}
+.drop .drop1 h3 ,.drop2 h3{
+	font-size:22px;
+	font-weight: 500;
+	color:#797979;
+}
+.drop .drop1 p ,.drop2 p{
+	float:left;
+	width:92%;
+	line-height: 25px;
+	color:#797979;
+}
+.drop .drop2{
+	width:50%;
+	float:left;
+}
+.block{
+	width:1200px;
+	margin:0 auto;
+	margin-bottom: 20px;
+}
+.block h3{
+	font-size:22px;
+	font-weight: 500;
+	color:#797979;
+	padding-bottom: 5px;
+}
+.block p{
+	line-height: 25px;
+	color:#797979;
+}
+.block .bl1{
+	height:100px;width:1130px;
+	padding:10px 30px;
+	border-left: 10px solid #EEEEEE;
+}
+.ord{
+	height:150px;
+	width:1200px;
+	margin:0 auto;
+	margin-bottom: 20px;
+}
+.ord h2{
+	font-size:32px;
+	font-weight: 500;
+	color:#797979;
+}
+.ord .ord1{
+	width:560px;
+	float:left;
+	padding-left: 40px
+	
+}
+.ord .ord1 ol li{
+	list-style-type: decimal;
+	color:#999;
+	line-height: 20px;
+}
+.ord .ord2{
+	width:560px;
+	float:right;
+	
+}
+.ord .ord2 ul li{
+	list-style:disc;
+	color:#999;
+	line-height: 20px;
+}
+.half{
+	height: 150px;width:1200px;
+	margin:0 auto;
+	clear:both;
+	margin-bottom: 20px;
+
+}
+.half .half-1{
+	width:600px;
+	float:left;
+}
+.half h3{
+	font-size:22px;
+	font-weight: 500;
+	color:#797979;
+	text-transform: capitalize;
+}	
+.half p{
+	color:#999;
+	line-height: 20px;
+	width:557px;
+}
+.half .half-2{
+	width:600px;
+	float:left;
+	
+}
+.one{
+	width:1200px;
+	margin: 0 auto;
+}
+.one ul li{
+	display: block;
+	float: left;
+	padding-bottom: 40px;
+}
+.one ul .one-1{
+	width:400px;
+}
+.one ul .one-2{
+	width:300px;
+
+}
+.one ul li h3{
+	font-size:22px;
+	font-weight: 500;
+	color:#797979;
+	text-transform: capitalize;
+}
+.one p{
+	color:#999;
+	width:90%;	
+	line-height:20px;
+}

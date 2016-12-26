@@ -1,0 +1,48 @@
+*{
+	margin:0;padding: 0;
+	line-height: 1;
+
+}
+body{
+	font-family: 'calibri' ,' Microsoft YaHei ';
+	letter-spacing: 0.2px;
+}
+h1, h2, h3, h4, h5, h6{
+	font-weight: normal;
+}
+a{
+	text-decoration: none;
+}
+img{
+	border:0px;
+}
+i{
+	font-style:normal;
+}
+input{
+	border:0px;
+}
+.w1150{
+	width:1150px;
+	margin: 0 auto;
+}
+.w1150 span{
+	display: block;
+	height:12px;
+	padding:14px;
+	margin:45px 5px;
+	float: left;
+	background: #E2E0E1;
+	border-radius: 5px;
+	color:#7D797A;
+}
+.w1150 .pic{
+	clear: both;
+	height: 760px;
+	margin-bottom: 80px;
+}
+.w1150 .pic a{
+	display: block;
+	float:left;
+	margin:0 22px 22px 0;
+}

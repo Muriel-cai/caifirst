@@ -1,0 +1,87 @@
+*{
+	margin:0;padding: 0;
+	line-height: 1;
+}
+body{
+	font-family: 'calibri';
+	letter-spacing: 0.2px; 
+}
+ul li{
+	list-style: none;
+}
+h1, h2, h3, h4, h5, h6{
+	font-weight: normal;
+}
+a{
+	text-decoration: none;
+}
+
+img{
+	border:0px;
+}
+input{
+	border:0px;
+	outline: none;
+}
+
+.w1150{
+	width:1150px;
+	margin: 0 auto ;
+}
+.w1150 .left{
+	float: left;
+	width:400px;
+}
+.w1150  h1{
+	font-family: ' Microsoft YaHei ';
+	font-size:18px;
+	color:#393E4D;
+	margin-bottom: 30px;
+}
+.w1150 .left p{
+	font-size:14px;
+	line-height: 22px;
+	color:#797979;
+}
+.w1150 .left .phone{
+	margin-top:70px;
+}
+.w1150 .right{
+	float:right;
+	width:660px;
+}
+.right h1{
+	margin-bottom: 26px;
+}
+.right label{
+	display: block;
+	height:26px;
+	line-height: 26px;
+	color:#797979;
+	font-weight: 600px;
+}
+.right input{
+	display: block;
+	height:32px;width:640px;
+	margin-bottom: 12px;
+	line-height: 32px;
+	padding-left:10px;
+	border:1px solid #DDD;
+	border-radius: 5px;
+}
+.right textarea{
+	height:110px;width:640px;
+	border-radius: 5px;
+	margin-bottom: 16px;
+}
+.right .sub{
+	padding-left: 0px;
+	width:74px;height:34px;
+	background: #FF6C60;
+	margin-bottom: 70px;
+	color:white;
+	font-size:16px;
+	line-height: 34px;
+	text-align: center;
+	border:0px;
+}
